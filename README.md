@@ -5,5 +5,7 @@ This is the sample application for the
 Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
+In the index view, I had to take out the size of the gravatar
+
 heroku name 
 glacial-reef-2486
